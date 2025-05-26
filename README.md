@@ -41,21 +41,21 @@ Following a section-wise approach for the exam helps. You can start from the top
 
 ## 🐳 𝗖𝗹𝗼𝘂𝗱 𝗡𝗮𝘁𝗶𝘃𝗲 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆
 
-→ Container image scanning (eg: trivy ) 
+→ Container image scanning (eg: [trivy](https://github.com/aquasecurity/trivy) ) 
 
-→ Multi-stage Docker builds
+→[ Multi-stage Docker builds](https://docs.docker.com/build/building/multi-stage/)
 
 → Container registries
 
-→ gVisor/Firecracker ( Mostly a CKS topic, but important) 
+→ [gVisor](https://gvisor.dev/docs/)/[Firecracker](https://firecracker-microvm.github.io/) ( Mostly a CKS topic, but important) 
 
-→ Image signing ( cosign )
+→ Image signing ( [cosign](https://github.com/sigstore/cosign) )
 
-→ Image Digest vs Image tags
+→ [Image Digest vs Image tags](https://candrews.integralblue.com/2023/09/always-use-docker-image-digests/)
 
 → Container breakout prevention
 
-→ CWPP (Cloud Workload Protection Platform)
+→ [CWPP (Cloud Workload Protection Platform)](https://www.microsoft.com/en-in/security/business/security-101/what-is-cwpp)
 
 → Multi-tenancy models (Soft vs Hard)
 
